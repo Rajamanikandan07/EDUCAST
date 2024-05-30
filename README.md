@@ -5,10 +5,10 @@ Educast is a web-based platform designed to connect educational institutions wit
 ## Team Roles and Responsibilities
   
    1. Aravindan G - Frontend Developer:
-      Responsible for the design and implementation of the user interface.
-      Technologies: HTML, CSS, JavaScript.
-      Key Deliverables:
-      Responsive and intuitive UI.
+       Responsible for the design and implementation of the user interface.
+       Technologies: HTML, CSS, JavaScript.
+       Key Deliverables:
+       Responsive and intuitive UI.
        Integration of interactive elements for job search and application.
         
   
