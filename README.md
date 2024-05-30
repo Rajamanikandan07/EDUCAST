@@ -16,6 +16,7 @@ Educast is a web-based platform designed to connect educational institutions wit
           Test plans and cases.
           Automated and manual testing scripts.
           Performance and security testing.
+ 
   3.Karthick K - Cloud Engineer:
          Manages cloud infrastructure and services.
          Technologies: Azure Static Web Apps, Azure Monitor, Azure AI.
@@ -23,7 +24,8 @@ Educast is a web-based platform designed to connect educational institutions wit
         Deployment of the application on Azure.
         Configuration of Azure Monitor for performance tracking.
          Implementation of AI services for job matching algorithms.
-   4.Mughilmathi K - Documentation Specialist:
+   
+  4.Mughilmathi K - Documentation Specialist:
             Develops and maintains project documentation.
             Key Deliverables:
             Comprehensive README file.
