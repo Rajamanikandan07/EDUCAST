@@ -1,15 +1,11 @@
-## Project Title: Educast - Lecture Job Portal
+## Educast - Lecture Job Portal
 
 ## Project Description:
 Educast is a web-based platform designed to connect educational institutions with qualified lecturers and instructors. It aims to streamline the recruitment process for teaching positions, offering a user-friendly interface and robust backend services powered by Azure technologies. The platform includes features for job postings, application submissions, and automated communication with applicants via a bot service.
 ## Team Roles and Responsibilities
   
    1. Aravindan G - Frontend Developer:
-        Responsible for the design and implementation of the user interface.
-        Technologies: HTML, CSS, JavaScript.
-        Key Deliverables:
-        Responsive and intuitive UI.
-        Integration of interactive elements for job search and application.
+        
   
   2. Rajamanikandan K - Testing Engineer:
           Ensures the application is free of bugs and performs optimally.
@@ -67,3 +63,7 @@ Mughilmathi K creates detailed documentation.
 Deploy the application on Azure.
 Continuous monitoring and updates.
 Collaboration and Tools
+5. Version Control: GitHub for source code management.
+6. Project Management: Jira or Trello for task tracking.
+7. Communication: Slack or Microsoft Teams for team communication.
+
