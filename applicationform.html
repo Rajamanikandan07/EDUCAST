@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDUCAST</title>
+    <link rel="icon" href="icon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="applicationform.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Application Form</h1>
+        <form action="success.html">
+            <section>
+                <h2>Job Details</h2>
+                <label for="job-title">Job Title</label>
+                <input type="text" id="job-title" name="job-title">
+                
+                <label for="vacancy-number">Vacancy Number</label>
+                <input type="text"required="required" id="vacancy-number" name="vacancy-number">
+            </section>
+            
+            <section>
+                <h2>Personal Details</h2>
+                <label for="title">Name</label>
+                <select id="title" name="title">
+                    <option value="Mr.">Mr.</option>
+                    <option value="Mrs.">Mrs.</option>
+                    <option value="Ms.">Ms.</option>
+                    <option value="Dr.">Dr.</option>
+                </select>
+                <input type="text"required="required" id="first-name" name="first-name" placeholder="First">
+                <input type="text"required="required" id="last-name" name="last-name" placeholder="Last">
+                
+                <label for="preferred-first-name">Preferred First Name</label>
+                <input type="text"required="required" id="preferred-first-name" name="preferred-first-name">
+            
+                <label for="dob">Date of Birth</label>
+                <input type="date"required="required" id="dob" name="dob">
+                
+                <label for="national-ins-no">National Ins. No.</label>
+                <input type="text"required="required" id="national-ins-no" name="national-ins-no">
+                
+                <label for="address">Address</label>
+                <input type="text"required="required" id="street-address" name="street-address" placeholder="Street Address">
+                <input type="text"required="required" id="city" name="city" placeholder="City">
+                <input type="text"required="required" id="region" name="region" placeholder="Region">
+                <input type="text"required="required" id="postal-code" name="postal-code" placeholder="Postal / Zip Code">
+                <select id="country" name="country">
+                    <option value="Romania">Romania</option>
+                    <option value="Romania">India</option>
+                    <option value="Romania">US</option>
+                    <!-- Add more countries as needed -->
+                </select>
+                
+                <label for="salary">Current annual salary or full time equivalent</label>
+                <input type="text" required="required" id="salary" name="salary">
+                
+                <label for="home-telephone">Home telephone</label>
+                <input type="tel" required="required"  id="home-telephone" name="home-telephone">
+                
+               
+             <label for="mobile-telephone">Mobile telephone</label>
+                <input type="tel" required="required"id="mobile-telephone" name="mobile-telephone">
+                
+                <label>Do you have a disability?</label>
+                <label><input type="radio"required="required" name="disability" value="yes"> Yes</label>
+                <label><input type="radio"required="required" name="disability" value="no"> No</label>
+                
+                <label for="email">Email Address</label>
+                <input type="email"required="required" id="email" name="email">
+            </section>
+            
+            <section>
+                <h2>Teaching Information</h2>
+                <label for="dcsf-number">DCSF reference number</label>
+                <input type="text"required="required" id="dcsf-number" name="dcsf-number">
+                
+                <label for="date-qualified">Date qualified as a teacher</label>
+                <input type="date"required="required" id="date-qualified" name="date-qualified">
+                
+                <label for="teacher-training">Type of teacher training undertaken</label>
+                <input type="text"required="required" id="teacher-training" name="teacher-training">
+                
+            </section>
+            <button type="required">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
