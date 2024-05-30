@@ -1,7 +1,7 @@
 ## Educast - Lecture Job Portal
 
 ## Project Description:
-Educast is a web-based platform designed to connect educational institutions with qualified lecturers and instructors. It aims to streamline the recruitment process for teaching positions, offering a user-friendly interface and robust backend services  powered by Azure technologies. The platform includes features for job postings, application submissions, and automated communication with applicants via a bot service.
+Educast is a web-based platform designed to connect educational institutions with qualified lecturers and instructors. It aims to streamline the recruitment process for teaching positions, offering a user-friendly interface and robust backend services  powered by Azure technologies. The platform includes features for  job postings, application submissions, and automated communication with applicants via a bot service.
 ## Team Roles and Responsibilities
   
    1. Aravindan G - Frontend Developer:
