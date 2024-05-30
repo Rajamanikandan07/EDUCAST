@@ -2,7 +2,38 @@
 
 ## Project Description:
 Educast is a web-based platform designed to connect educational institutions with qualified lecturers and instructors. It aims to streamline the recruitment process for teaching positions, offering a user-friendly interface and robust backend services powered by Azure technologies. The platform includes features for job postings, application submissions, and automated communication with applicants via a bot service.
-
+## Team Roles and Responsibilities
+  
+   1. Aravindan G - Frontend Developer:
+        Responsible for the design and implementation of the user interface.
+        Technologies: HTML, CSS, JavaScript.
+        Key Deliverables:
+        Responsive and intuitive UI.
+        Integration of interactive elements for job search and application.
+  
+  2. Rajamanikandan K - Testing Engineer:
+          Ensures the application is free of bugs and performs optimally.
+          Key Deliverables:
+          Test plans and cases.
+          Automated and manual testing scripts.
+          Performance and security testing.
+ 
+  3.Karthick K - Cloud Engineer:
+         Manages cloud infrastructure and services.
+         Technologies: Azure Static Web Apps, Azure Monitor, Azure AI.
+        Key Deliverables:
+        Deployment of the application on Azure.
+        Configuration of Azure Monitor for performance tracking.
+         Implementation of AI services for job matching algorithms.
+   
+  4.Mughilmathi K - Documentation Specialist:
+            Develops and maintains project documentation.
+            Key Deliverables:
+            Comprehensive README file.
+            User guides and API documentation.
+           Documentation of project architecture and design decisions.
+          Key Features of Educast
+          Job Listings:
 ## Institutions can post job openings.
 Detailed job descriptions and requirements.
 ## Application Submission:
