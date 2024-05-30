@@ -67,6 +67,3 @@ Mughilmathi K creates detailed documentation.
 Deploy the application on Azure.
 Continuous monitoring and updates.
 Collaboration and Tools
-5. Version Control: GitHub for source code management.
-6. Project Management: Jira or Trello for task tracking.
-7. Communication: Slack or Microsoft Teams for team communication.
