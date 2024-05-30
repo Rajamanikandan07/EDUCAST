@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    background-color: rgb(0, 109, 128);
+    justify-content: space-between;
+    align-items: center;
+
+}
+ .navimage{
+    width: 90px;
+position: absolute;
+top: 0.5px;
+left: 0%;
+
+}
+h1{
+    margin-left: 65px;
+    color: aliceblue;
+}
+ u1{
+display: flex;
+list-style-type: none;
+}
+nav li a{
+    color: white;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.register{
+    position: relative;
+    background-color: white;
+    border: none;
+    outline: none;
+    color: black;
+    cursor: pointer;
+        border-radius: 20px;
+          }
+.register:hover{
+    transform: scale(1.1);
+}
+
+.register a{
+    text-decoration: none;
+}
+
+
+.lecture{
+    background-color:white;
+    overflow: hidden;
+    padding: 37px;
+    overflow: hidden;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: 65px auto;
+}
+.lecture-content{
+    flex: 1;
+    width: 600px;
+    margin: 0px 25px;
+    animation: fadeInUp 2s ease;
+}
+.lecture-content h2{
+    font-size: 38px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.lecture-content p{
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    color: #666;
+}
+
+
+
+img{
+    border-radius: 15px;
+    animation: fadeInRight 2s ease;
+}
+@media screen and (max-width: 768px){
+   
+     .lecture{
+        margin: 0px;
+  }
+  .container{
+    width: 100%;
+    flex-direction: column;
+    margin: 0px;
+    padding: 40px;
+  }
+  .lecture-content{
+    width: 100%;
+    margin: 35px 0px;
+ }
+ .lecture-content h2{
+    font-size: 30px;
+  }
+  .lecture-content p{
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+ 
+}
+@keyframes fadeInUp{
+    0%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+@keyframes fadeInRight{
+    0%{
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0px);
+    }
+}
+
+.bottomnav{
+    color: white;
+    justify-content: center;
+}
