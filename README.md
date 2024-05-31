@@ -1,18 +1,18 @@
 ## EDUCAST
   ## Overview
-     EDUCAST is a project aimed at revolutionizing education through innovative technology solutions. 
+   EDUCAST is a project aimed at revolutionizing education through innovative technology solutions. 
      It utilizes various frontend technologies such as HTML, CSS, and JavaScript to create an interactive and 
      engaging platform for students and educators.Additionally, it leverages Azure services including 
      Azure Static Web App, Azure Monitor, Azure Language,and Azure Bot Service to enhance functionality, performance, and security.
 
 ## Team Collaboration
-    1.Aravindan G (Frontend Developer): Responsible for implementing the frontend features using HTML, CSS, and JavaScript. Collaborates closely with other team members to ensure a seamless user experience.
+   1.Aravindan G (Frontend Developer): Responsible for implementing the frontend features using HTML, CSS, and JavaScript. Collaborates closely with other team members to ensure a seamless user experience.
 
-    2.RajaManikandan K (Testing Engineer): Conducts rigorous testing of the application to identify and fix bugs, ensuring high quality and reliability. Works closely with developers to implement effective testing strategies.
+  2.RajaManikandan K (Testing Engineer): Conducts rigorous testing of the application to identify and fix bugs, ensuring high quality and reliability. Works closely with developers to implement effective testing strategies.
 
-    3.Karthick K (Cloud Engineer): Manages the deployment and configuration of Azure services, including Azure Static Web App, Azure Monitor, Azure Language, and Azure Bot Service. Ensures scalability, performance, and security of the application.
+   3.Karthick K (Cloud Engineer): Manages the deployment and configuration of Azure services, including Azure Static Web App, Azure Monitor, Azure Language, and Azure Bot Service. Ensures scalability, performance, and security of the application.
 
-     4.Mughilmathi K (Documentation Specialist): Responsible for creating and maintaining project documentation, including this README file. Provides comprehensive information about the project structure, technologies used, and team collaboration.
+   4.Mughilmathi K (Documentation Specialist): Responsible for creating and maintaining project documentation, including this README file. Provides comprehensive information about the project structure, technologies used, and team collaboration.
 
 ## Technologies Used
 ## Frontend Technologies:
