@@ -26,29 +26,29 @@
     Azure Bot Service
 ##Features
       
-      User Authentication and Authorization: Implement user authentication to allow students, educators, and administrators to log in securely. Apply appropriate authorization levels to restrict access to certain features or content.
+   User Authentication and Authorization: Implement user authentication to allow students, educators, and administrators to log in securely. Apply appropriate authorization levels to restrict access to certain features or content.
 
-     Interactive Learning Modules: Develop interactive learning modules covering various subjects and topics. Include multimedia elements such as videos, animations, quizzes, and interactive exercises to engage students and facilitate learning.
+   Interactive Learning Modules: Develop interactive learning modules covering various subjects and topics. Include multimedia elements such as videos, animations, quizzes, and interactive exercises to engage students and facilitate learning.
 
-     Live Classes and Webinars: Enable live streaming of classes and webinars for real-time interaction between educators and students. Provide features for screen sharing, whiteboarding, and chat discussions to enhance the learning experience.
+  Live Classes and Webinars: Enable live streaming of classes and webinars for real-time interaction between educators and students. Provide features for screen sharing, whiteboarding, and chat discussions to enhance the learning experience.
 
-     Discussion Forums and Communities: Create discussion forums and online communities where students can ask questions, share ideas, and collaborate with peers and educators. Implement features for liking, commenting, and tagging to encourage participation and knowledge sharing.
+  Discussion Forums and Communities: Create discussion forums and online communities where students can ask questions, share ideas, and collaborate with peers and educators. Implement features for liking, commenting, and tagging to encourage participation and knowledge sharing.
 
-    Personalized Learning Paths: Offer personalized learning paths based on each student's interests, learning style, and skill level. Use machine learning algorithms to analyze user data and recommend relevant courses, resources, and activities.
+  Personalized Learning Paths: Offer personalized learning paths based on each student's interests, learning style, and skill level. Use machine learning algorithms to analyze user data and recommend relevant courses, resources, and activities.
 
-    Progress Tracking and Analytics: Track and analyze students' progress, performance, and engagement metrics. Provide dashboards and reports for educators to monitor student performance, identify areas for improvement, and tailor instruction accordingly.
+   Progress Tracking and Analytics: Track and analyze students' progress, performance, and engagement metrics. Provide dashboards and reports for educators to monitor student performance, identify areas for improvement, and tailor instruction accordingly.
 
-    Virtual Labs and Simulations: Develop virtual labs and simulations for hands-on learning in subjects such as science, engineering, and computer science. Allow students to perform experiments, simulate scenarios, and visualize concepts in a safe and immersive environment.
+  Virtual Labs and Simulations: Develop virtual labs and simulations for hands-on learning in subjects such as science, engineering, and computer science. Allow students to perform experiments, simulate scenarios, and visualize concepts in a safe and immersive environment.
 
-    Accessibility and Inclusivity: Ensure that the platform is accessible to users with disabilities by implementing features such as screen reader support, keyboard navigation, and adjustable font sizes. Promote inclusivity by providing multilingual support and culturally diverse content.
+  Accessibility and Inclusivity: Ensure that the platform is accessible to users with disabilities by implementing features such as screen reader support, keyboard navigation, and adjustable font sizes. Promote inclusivity by providing multilingual support and culturally diverse content.
 
-    Feedback and Assessment Tools: Integrate feedback and assessment tools for educators to evaluate student learning outcomes. Include features for creating and grading assignments, quizzes, and exams, as well as providing constructive feedback and recommendations for improvement.
+  Feedback and Assessment Tools: Integrate feedback and assessment tools for educators to evaluate student learning outcomes. Include features for creating and grading assignments, quizzes, and exams, as well as providing constructive feedback and recommendations for improvement.
 
-    Integration with Learning Management Systems: Enable integration with popular learning management systems (LMS) to streamline course content creation, enrollment management, and grade synchronization. Support standards such as SCORM and LTI for interoperability with external tools and content repositories.
+  Integration with Learning Management Systems: Enable integration with popular learning management systems (LMS) to streamline course content creation, enrollment management, and grade synchronization. Support standards such as SCORM and LTI for interoperability with external tools and content repositories.
 
-    AI-Powered Virtual Assistants: Implement AI-powered virtual assistants to provide personalized recommendations, answer questions, and assist users with navigating the platform. Utilize natural language processing (NLP) to understand user queries and provide contextually relevant responses.
+   AI-Powered Virtual Assistants: Implement AI-powered virtual assistants to provide personalized recommendations, answer questions, and assist users with navigating the platform. Utilize natural language processing (NLP) to understand user queries and provide contextually relevant responses.
 
-    Gamification Elements: Incorporate gamification elements such as badges, points, leaderboards, and achievements to incentivize learning and encourage student engagement. Design challenges, quests, and competitions to motivate students to actively participate and progress through their learning journey.
+  Gamification Elements: Incorporate gamification elements such as badges, points, leaderboards, and achievements to incentivize learning and encourage student engagement. Design challenges, quests, and competitions to motivate students to actively participate and progress through their learning journey.
 ## Getting Started
     To get started with EDUCAST, follow these steps:
      Clone the repository to your local machine.
