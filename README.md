@@ -56,3 +56,6 @@
      Set up your development environment.
      Run the application locally for testing and development purposes.
      Deploy the application to Azure for production use.
+
+## Screenshots
+  blob:https://web.whatsapp.com/a04e5750-9c33-4f67-85b9-90ca778836a1
