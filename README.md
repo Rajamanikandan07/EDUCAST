@@ -1,9 +1,9 @@
 ## EDUCAST
   ## Overview
-     EDUCAST is a project aimed at revolutionizing education through innovative technology solutions. It utilizes various frontend technologies such as 
-     HTML, CSS, and JavaScript to create an interactive and engaging platform for students and educators. Additionally, it leverages Azure services including 
-     Azure Static Web App, Azure Monitor, Azure Language, 
-     and Azure Bot Service to enhance functionality, performance, and security.
+     EDUCAST is a project aimed at revolutionizing education through innovative technology solutions. 
+     It utilizes various frontend technologies such as HTML, CSS, and JavaScript to create an interactive and 
+     engaging platform for students and educators.Additionally, it leverages Azure services including 
+     Azure Static Web App, Azure Monitor, Azure Language,and Azure Bot Service to enhance functionality, performance, and security.
 
 ## Team Collaboration
     1.Aravindan G (Frontend Developer): Responsible for implementing the frontend features using HTML, CSS, and JavaScript. Collaborates closely with other team members to ensure a seamless user experience.
