@@ -58,4 +58,19 @@
      Deploy the application to Azure for production use.
 
 ## Screenshots
-  blob:https://web.whatsapp.com/a04e5750-9c33-4f67-85b9-90ca778836a1
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/4373db8d-a767-47c1-a6fa-60b2beb2724f)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/4c5d646c-f0a1-4911-ba68-3895eb85e37b)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/e9188dbc-1a05-4114-85c8-d3ba25ab1531)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/fbae66c5-f28b-401d-a8c1-d802a7361920)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/890d830f-fd84-40e8-a9a9-619b30de300f)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/eff37597-1f96-446f-adba-7258e861c825)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/5e332a7a-8575-4bd1-9769-9830d6b8d0f7)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/4c6ccb3f-b9b1-4e59-8d16-de007b9d0665)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/d2c18c63-7d6a-4b06-bb7e-e462e1463730)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/fc5001f3-bad8-4697-a932-b24b583950df)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/680cb8b2-0442-4fb9-9cbc-aba4545f6a95)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/cd2cba65-5c6e-41ec-9ae1-d6f3e5590a29)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/45efd740-6f41-456f-a437-ad392cbc8e3a)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/3a6ed684-6548-4748-93f6-25e9d5c15123)
+
+
