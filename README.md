@@ -71,7 +71,10 @@
   ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/680cb8b2-0442-4fb9-9cbc-aba4545f6a95)
   ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/cd2cba65-5c6e-41ec-9ae1-d6f3e5590a29)
   ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/171225664/45efd740-6f41-456f-a437-ad392cbc8e3a)
-  ![Screenshot from 2024-06-01 10-33-38](https://github.com/Rajamanikandan07/EDUCAST/assets/144896399/aa82449a-e2b9-433f-9c2d-29f4c4aa0520)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/144896399/416a81a4-0767-4595-a575-e7ee73911d6d)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/144896399/b6d4b01f-8595-4067-82b5-4662460e870f)
+  ![image](https://github.com/Rajamanikandan07/EDUCAST/assets/144896399/c14bd4c6-16be-4f9f-8751-ebb596b5ca5a)
+  
 
 
  
